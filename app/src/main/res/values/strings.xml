@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SwipeDrop</string>
+    <string name="app_name">SwipeSend</string>
     <string name="addFileText">Добавить файл</string>
     <string name="YourFilesHereText">Тут будут добавленные файлы</string>
 </resources>
